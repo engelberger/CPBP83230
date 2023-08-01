@@ -6,5 +6,5 @@ No prior knowledge of AlphaFold2, Google Colab, or protein structure prediction 
 
 To get started, click the button below to open the notebook in Google Colab!
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/REPO_NAME/blob/main/notebook.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/engelberger/CPBP8330/blob/main/AF2_class/AlphaFold2.ipynb)
 
